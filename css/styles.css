@@ -29,3 +29,12 @@ nav>ul>li>a{
 	font-size: 30px;
 	color: rgb(211,211,211);
 }
+#about{
+	font-family: 'Special Elite', cursive;
+	font-size: 30px;
+	text-align: center;
+	padding: 10px;
+}
+.img{
+	float: right;
+}
