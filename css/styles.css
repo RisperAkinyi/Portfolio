@@ -1,6 +1,12 @@
 body{
 	margin: 0;
-	background-image: url(https://wallpapercave.com/wp/wp3711171.jpg);
+
+}
+.overlay{
+	background-image: url(https://wallpapercave.com/wp/wp4064666.jpg);
+	height: 680px;
+	background-size: cover;
+
 }
 nav{
 	background-color: rgb(0,0,0,0.9);
