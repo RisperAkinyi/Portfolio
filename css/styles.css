@@ -47,10 +47,22 @@ h3{
 .img{
 	float: right;
 }
-#project{
+h1{
 	text-align: center;
-	padding: 10px;
 }
+.image{
+	margin-left: 10%;
+}
+#project{
+	display: flex;
+	flex-direction: row;
+}
+.project{
+	float: right;
+	text-align: center;
+	margin-right: 7%;
+}
+
 .footer{
 	background-color:rgb(0,0,0,0.9);
 	color: rgb(211,211,211);
