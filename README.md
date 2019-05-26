@@ -15,9 +15,6 @@ This is my Portfolio that describes who I am and the projects that I have been i
 ## Support and contact details
 Contact me at risperakinyi3@gmail.com if you run into any issue or have any questions
 
-## Live Demo
-You can view live demo of my portfolio at https://risperakinyi.github.io/Portfolio/
-
 ### License
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files, to deal
