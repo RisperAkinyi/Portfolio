@@ -1,11 +1,13 @@
 body{
 	margin: 0;
+	font-family: 'Special Elite', cursive;
+	font-size: 30px;
 
 }
 .overlay{
 	background-image: url(https://wallpapercave.com/wp/wp4064666.jpg);
 	border-radius: 5px;
-	height: 680px;
+	height: 650px;
 	background-size: cover;
 
 }
@@ -32,8 +34,6 @@ nav>ul>li>a{
 	color: rgb(211,211,211);
 }
 #about{
-	font-family: 'Special Elite', cursive;
-	font-size: 30px;
 	text-align: center;
 	padding: 10px;
 }
@@ -41,8 +41,6 @@ nav>ul>li>a{
 	float: right;
 }
 #project{
-	font-family: 'Special Elite', cursive;
-	font-size: 30px;
 	text-align: center;
 	padding: 10px;
 }
@@ -53,3 +51,4 @@ nav>ul>li>a{
 	padding: 20px;
 	text-align:center; 
 }
+

@@ -1,23 +1,21 @@
 # Portfolio
 
-##Description
+## Description
 This is my Portfolio that describes who I am and the projects that I have been involved in since I joined Moringa School
 
-## Setup/Installation Requirement
+## Setup/Installation Requirements
 * git clone link
 * cd Portfolio landing
 * Open index.html from a browser
 
-## Technologies used
+## Technologies Used
 * HTML
 * CSS
 
 ## Support and contact details
-Contact me at risperakinyi3@gmail.com if you run into any issue or have questions
+Contact me at risperakinyi3@gmail.com if you run into any issue or have any questions
 
 ### License
-Copyright (c) 2019 Risper Akinyi
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files, to deal
 in the Software without restriction, including without limitation the rights
@@ -35,3 +33,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Copyright (c) 2019 Risper Akinyi
