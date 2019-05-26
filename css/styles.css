@@ -37,6 +37,13 @@ nav>ul>li>a{
 	text-align: center;
 	padding: 10px;
 }
+.hobbies{
+	list-style-position: inside;
+	text-align: left;
+}
+h3{
+	margin-left: 15%;
+}
 .img{
 	float: right;
 }
